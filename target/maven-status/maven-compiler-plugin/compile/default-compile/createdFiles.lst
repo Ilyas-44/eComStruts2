@@ -1,0 +1,8 @@
+actions\CategorieAction.class
+model\Utilitaire.class
+service\Test.class
+dao\CategorieDAO.class
+util\HibernateUtil.class
+model\Categorie.class
+model\Produit.class
+service\CategorieDAOImpl.class
